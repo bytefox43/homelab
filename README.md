@@ -1,7 +1,7 @@
 # homelab
 Home Lab – DevOps / SysOps learning environment
 
-# Home Lab – DevOps / SysOps
+
 
 ## Cel projektu
 Home Lab służy do nauki oraz praktycznego rozwijania umiejętności z obszaru:
@@ -10,12 +10,10 @@ Home Lab służy do nauki oraz praktycznego rozwijania umiejętności z obszaru:
 - administracji systemami Linux
 - sieci i monitoringu
 
-Projekt pełni również rolę **portfolio technicznego**.
-
 ---
 
 ## Technologie i narzędzia
-- Proxmox (VM / LXC)
+- Proxmox (VM)
 - MikroTik
 - Zabbix (SNMP)
 - Linux
@@ -59,7 +57,7 @@ automation/  - skrypty i automatyzacja
 docs/        - dokumentacja techniczna
 
 
-## Roadmap
+Roadmap
 
 1. Repozytorium GitHub
 
