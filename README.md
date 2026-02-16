@@ -1,5 +1,4 @@
-# homelab
-Home Lab – DevOps / SysOps learning environment
+# Home Lab – DevOps / SysOps learning environment
 
 
 
@@ -35,7 +34,7 @@ Home Lab służy do nauki oraz praktycznego rozwijania umiejętności z obszaru:
 
 ## Monitoring
 - Monitoring urządzeń sieciowych (MikroTik) przez SNMP
-- Monitoring VM i LXC
+- Monitoring VM
 - Alerty i wizualizacja metryk w Zabbix
 
 ---
