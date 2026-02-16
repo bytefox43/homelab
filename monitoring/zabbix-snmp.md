@@ -64,7 +64,7 @@ Dla maszyn Linux:
   - procesy
 
 Dla hosta Proxmox:
-- monitoring z wykorzystaniem SNMP
+- monitoring z wykorzystaniem SNMP oraz Zabbix Agent
 
 ---
 
@@ -87,6 +87,11 @@ Akcje:
 - Dashboard infrastruktury
 - Wykresy ruchu sieciowego na interfejsie (bit/s)  
 - Monitoring dostępności urządzeń
+
+
+Przykładowy dashboard infrastruktury:
+
+![Zabbix Dashboard](screenshots/dashboard-overview.png)
 
 ---
 

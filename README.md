@@ -28,7 +28,7 @@ Home Lab służy do nauki oraz praktycznego rozwijania umiejętności z obszaru:
 - Segmentacja sieci (VLAN)
 - Monitoring infrastruktury z użyciem Zabbix + SNMP
 
-*(diagram do dodania)*
+![Topology](network/home-lab-topology.png)
 
 ---
 
@@ -51,7 +51,7 @@ Home Lab służy do nauki oraz praktycznego rozwijania umiejętności z obszaru:
 ```text
 network/     - konfiguracja sieci
 monitoring/  - Zabbix, SNMP, monitoring
-proxmox/     - VM, LXC, architektura
+proxmox/     - VM, architektura
 automation/  - skrypty i automatyzacja
 docs/        - dokumentacja techniczna
 
