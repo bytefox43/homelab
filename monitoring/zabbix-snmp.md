@@ -82,6 +82,17 @@ Akcje:
 
 ---
 
+### Diagram przepływu
+
+```mermaid
+flowchart LR
+    A[MikroTik Router] -->|SNMP| B[Zabbix Server]
+    B -->|Trigger| C[Alert Engine]
+    C -->|Email| D[Administrator]
+```
+
+---
+
 ## Wizualizacja
 
 - Dashboard infrastruktury
